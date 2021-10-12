@@ -1,0 +1,11 @@
+.navbar-nav {
+    font-size: 30px;
+    margin-left: auto;
+}
+.navbar-brand{
+    font-size: 35px !important;
+    margin-left: 12px;
+}
+.nav-link{
+    margin: 12px;
+}
