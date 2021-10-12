@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #fef1df;
+    position: absolute;
+    margin-left: 50%;
+    transform: translate(-50%);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+form{
+    background-color: #fff;
+    padding: 30px;
+    border: radius 10px; 
+    margin-bottom: 40px;
+
+}
+form h1{
+    font-size: 20px;
+}
+ 
+.corps-formulaire{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+.corps-formulaire2{
+    margin-top: 20px;
+    display : flex;
+    flex-direction : column;
+    height: 40px;
+}
+input{
+    margin-top: 5px;
+    padding: 10px 5px 10px 30px;
+    border: 1px solid #c9c9c9;
+    border-radius: 5px;
+}
+.pied-formulaire button{
+    margin-top: 10px;
+    background-color: #747cdf;
+    color: white;
+    font-size: 15px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+
+
+  
+
